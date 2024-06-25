@@ -7,6 +7,7 @@ export default defineConfig({
 		starlight({
 			title: 'Documentacion salidas de campo',
 			tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 5 },
+			favicon: './public/favicon.png',
 			customCss: [
 		        './src/styles/global.css',
       		],

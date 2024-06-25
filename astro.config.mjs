@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Documentacion salidas de campo',
+			title: 'Salidas de campo',
 			tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 5 },
 			favicon: './public/favicon.png',
 			customCss: [
@@ -29,6 +29,7 @@ export default defineConfig({
 							label: "UAB",
 							items: [
 								{ label: 'Proyeccion', link: '/instructivos/uab/proyeccion/' },
+								{ label: 'Asignacion docente', link: '/instructivos/uab/asignacion/' },
 							]
 						},
 
@@ -36,6 +37,7 @@ export default defineConfig({
 							label: "Areas curriculares",
 							items: [
 								{ label: 'Gestion de solicitudes', link: '/instructivos/areas/gestion/' },
+								{ label: 'Actualizacion de datos', link: '/instructivos/areas/datos/' },
 							]
 						},
 					],

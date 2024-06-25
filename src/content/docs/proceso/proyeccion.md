@@ -22,3 +22,13 @@ El proceso de la fase de proyección inicia cuando la Dirección Académica soli
 - Las secretarías de departamento consolidan la información enviada por los docentes y la envían a la Vicedecanatura Académica.
 
 - La Vicedecanatura Académica, consolida la información de todos los departamento, hace las correcciones, revisa errores y hace ajustes necesarios para posteriormente enviar el consolidado con todos los datos a Dirección Académica, la cual realiza la valorización de cada salida de campo.
+
+---
+
+## Preguntas frecuentes
+
+<details>
+<summary>Porque es importante el proceso de proyecion?</summary>
+
+La fase de proyección es fundamental para estimar los costos de cada salida de campo y solicitar los recursos financieros necesarios.
+</details>

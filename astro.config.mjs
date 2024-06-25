@@ -6,6 +6,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Documentacion salidas de campo',
+			customCss: [
+		        './src/styles/global.css',
+      		],
 			social: {
 				github: 'https://github.com/imlargo',
 			},

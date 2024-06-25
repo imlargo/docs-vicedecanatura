@@ -18,9 +18,26 @@ export default defineConfig({
 				{
 					label: 'Instructivos',
 					items: [
-						{ label: 'Proyeccion para UAB', link: '/instructivos/uab/' },
-						{ label: 'Proyeccion para docente', link: '/instructivos/docente/' },
-						{ label: 'Gestion de solicitudes', link: '/instructivos/gestion/' },
+						{
+							label: "Docentes",
+							items: [
+								{ label: 'Proyeccion', link: '/instructivos/docente/proyeccion/' },
+							]
+						},
+
+						{
+							label: "UAB",
+							items: [
+								{ label: 'Proyeccion', link: '/instructivos/uab/proyeccion/' },
+							]
+						},
+
+						{
+							label: "Areas curriculares",
+							items: [
+								{ label: 'Gestion de solicitudes', link: '/instructivos/areas/gestion/' },
+							]
+						},
 					],
 				},
 				{

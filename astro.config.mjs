@@ -6,6 +6,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Documentacion salidas de campo',
+			tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 5 },
 			customCss: [
 		        './src/styles/global.css',
       		],

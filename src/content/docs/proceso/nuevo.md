@@ -55,8 +55,17 @@ A inicios del semestre siguiente al que se realizó la proyección, inicia el pr
 
 12. La Vicedecanatura Académica informa a los docentes sobre la decisión del Consejo de Facultad.
 
+13. Cuando la salida de campo ha sido aprobada, 15 dias antes de la fecha de salida la vicedecanatura academica escribe al docente para confirmar la realizacion e informacion de la misma.
+
+14. Una vez que el docente llegue de la salida de campo, tiene un plazo de 5 dias para llenar el formato de evaluacion docente donde debe informar acerca del objetivo de la practica y su cumplimiento, actividades academicas realizadas, y dificultades generales.
+
 ---
 
+## Notas adicionales:
+
+En este proceso tambien entra bienestar universitario, ya que se deben tener en cuenta los formatos de autorizacion de menores y de responsabilidad individual para la poliza estudiantil. Ademas el docente debe realizar un curso de primeros auxilios.
+
+---
 
 ## Preguntas frecuentes
 

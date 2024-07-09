@@ -65,6 +65,15 @@ A inicios del semestre siguiente al que se realizó la proyección, inicia el pr
 
 En este proceso tambien entra bienestar universitario, ya que se deben tener en cuenta los formatos de autorizacion de menores y de responsabilidad individual para la poliza estudiantil. Ademas el docente debe realizar un curso de primeros auxilios.
 
+### Formatos
+
+- Formato responsabilidad individual <a href="/public/M.FT.05.007.007 Formato responsabilidad individual.xlsx" target="_blank">Link</a>
+
+- Formato consentimiento menores <a href="/public/M.FT.05.007.008 Consentimiento de menores y prescripción médica.docx" target="_blank">Link</a>
+
+- Formato evaluacion por el docente <a href="/public/M.FT.05.007.009 Formato evaluación por el docente.docx" target="_blank">Link</a>
+
+
 ---
 
 ## Preguntas frecuentes

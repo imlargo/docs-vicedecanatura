@@ -45,14 +45,14 @@ export default defineConfig({
 				{
 					label: 'Proceso salidas de campo',
 					items: [
-						{ label: 'Proyeccion', link: '/proceso/proyeccion/' },
-						{ label: 'Solicitud', link: '/proceso/solicitud/' },
+						{ label: 'Antiguo', link: '/proceso/antiguo/' },
+						{ label: 'Nuevo', link: '/proceso/nuevo/' },
 					],
 				},
 				{
 					label: 'Software',
 					items: [
-						{ label: 'Tech Stack', link: '/software/techstack/' },
+						{ label: 'Documentacion', link: '/software/techstack/' },
 					],
 				},
 			],
